@@ -1,13 +1,15 @@
 ## About This Site
 
-this blog is a sample blog site using [casual-markdown-blog](https://github.com/casualwriter/casual-markdown-blog).
+Trying out different ways to set up a free, fast site, quick and easy. v0.1 using [casual-markdown-blog](https://github.com/casualwriter/casual-markdown-blog).
 
-## About Casualwriter
+## About Me
 
-like all simple things, working on simple, lightweight, independence, portable solution.
+Perfect is the enemy of the good... 
+Complacency is the friend of entropy...
+Simple cannot be sold and hence doesn't tend to be.
 
 ![](campo02.jpg)
 
 ### History
                     
-* 2022/08/24: 0.60, initial release. 
+* 2022/10/10: Following a link from HN started messing around with github pages. 
