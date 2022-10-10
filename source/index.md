@@ -7,7 +7,7 @@ nav-width  : 320px
 css-header : background:color:white ; color:black
 menu       : 
    Home    : ?
-   github  : https://github.com/casualwriter/casual-markdown-blog
+   NOW     : ?page=now.md
    Dark    : javascript:darkmode()
    About   : ?page=about.md
 -----------------------------------------------------------------------------
