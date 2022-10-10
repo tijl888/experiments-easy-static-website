@@ -4,7 +4,7 @@ title      : Free Basic (Static) Website
 subtitle   : Free KISS
 nav-group  : featured, new-3, tags, months
 nav-width  : 320px
-css-header : background:linear-gradient(to bottom right, #06c, #fc0); color:white
+css-header : background:color:white ; color:black
 menu       : 
    Home    : ?
    github  : https://github.com/casualwriter/casual-markdown-blog
