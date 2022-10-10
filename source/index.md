@@ -51,7 +51,7 @@ h1 { border-bottom:1px dotted grey }
 ### Aug 2022
                     
 * 2022/08/20: [Markdown as blog](20220820-markdown-as-blog.md) { #markdown, #featured }
-* 2022/08/10: [Is RegExp readable?](20220810-is-regexp-readable.md) { #regexp }
+* 2022/08/10: [Is RegExp readable?](20220810-is-regexp-readable.md) { #utopia }
 
 ### July 2022
                     
