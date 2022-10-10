@@ -8,7 +8,6 @@ Perfect is the enemy of the good...
 Complacency is the friend of entropy...
 Simple cannot be sold and hence doesn't tend to be.
 
-![](campo02.jpg)
 
 ### History
                     
